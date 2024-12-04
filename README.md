@@ -1,5 +1,1 @@
-![HomePage](https://github.com/user-attachments/assets/3b859cec-76d0-4e84-9599-b18984b20319)
-
-
-
-![ChartPage](https://github.com/user-attachments/assets/b597cb1f-e34b-4267-a710-6da94edcbd3e)
+!![HomePage](https://github.com/user-attachments/assets/d5ce0ed0-8fa6-4498-828b-e6811c4bb6fe)
